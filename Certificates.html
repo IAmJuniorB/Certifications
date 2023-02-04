@@ -7,23 +7,44 @@
         border-collapse: collapse;
         width: 80%;
         margin: 30px auto;
+        font-family: Arial, sans-serif;
       }
       th, td {
         border: 1px solid #dddddd;
         text-align: left;
         padding: 8px;
+        font-size: 14px;
       }
       th {
         background-color: #dddddd;
+        font-weight: bold;
       }
       h1 {
         text-align: center;
         margin-bottom: 50px;
+        font-size: 36px;
       }
       img {
         display: block;
         margin: 20px auto;
         width: 50%;
+        border: 1px solid #dddddd;
+        border-radius: 10px;
+      }
+      tr:hover {
+        background-color: #f2f2f2;
+      }
+      .certificate-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 40px;
+      }
+      .certificate-image {
+        width: 200px;
+        height: 200px;
+        margin: 20px;
+        box-shadow: 2px 2px 5px #dddddd;
       }
     </style>
   </head>
@@ -36,17 +57,49 @@
         <th>Issuing Institution</th>
       </tr>
       <tr>
-        <td>Certificate 1</td>
-        <td>January 1, 2020</td>
-        <td>Institution A</td>
+        <td>Python for Beginners</td>
+        <td>August 25, 2022</td>
+        <td>Sololearn</td>
       </tr>
       <tr>
-        <td>Certificate 2</td>
-        <td>March 1, 2021</td>
-        <td>Institution B</td>
+        <td>Intermediate Python</td>
+        <td>January 29, 2023</td>
+        <td>Sololearn</td>
+      </tr>
+      <tr>
+        <td>Python Core</td>
+        <td>January 31, 2023</td>
+        <td>Sololearn</td>
+      </tr>
+      <tr>
+        <td>Python Data Structures</td>
+        <td>January 31, 2022</td>
+        <td>Sololearn</td>
+      </tr>
+      <tr>
+        <td>Python for Finance</td>
+        <td>February 4, 2023</td>
+        <td>Sololearn</td>
+      </tr>
+      <tr>
+        <td>Ruby</td>
+        <td>January 29, 2023</td>
+        <td>Sololearn</td>
+      </tr>
+      <tr>
+        <td>SQL</td>
+        <td>February 4, 2023</td>
+        <td>Sololearn</td>
       </tr>
     </table>
-    <img src="certificate_1.jpg" alt="Certificate 1">
-    <img src="certificate_2.jpg" alt="Certificate 2">
+    <div class="certificate-container">
+      <img class="certificate-image" src="python_beginners_certificate.jpg" alt="Python for Beginners Certificate">
+      <img class="certificate-image" src="intermediate_python_certificate.jpg" alt="Intermediate Python Certificate">
+      <img class="certificate-image" src="python_core_certificate.jpg" alt="Python Core Certificate">
+      <img class="certificate-image" src="python_data_structures_certificate.jpg" alt="Python Data Structures Certificate">
+      <img class="certificate-image" src="python_finance_certificate.jpg" alt="Python for Finance Certificate">
+      <img class="certificate-image" src="ruby_certificate.jpg" alt="Ruby Certificate">
+      <img class="certificate-image" src="sql_certificate.jpg" alt="SQL Certificate">
+    </div>
   </body>
 </html>
