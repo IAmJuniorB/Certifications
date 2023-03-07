@@ -1,0 +1,56 @@
+<style>
+    table {
+      border-collapse: collapse;
+      width: 80%;
+      margin: 30px auto;
+      font-family: Arial, sans-serif;
+    }
+    th, td {
+      border: 1px solid #000000;
+      text-align: left;
+      padding: 8px;
+      font-size: 14px;
+    }
+    th {
+      background-color: #dddddd;
+      font-weight: bold;
+    }
+    h1 {
+      text-align: center;
+      margin-bottom: 50px;
+      font-size: 36px;
+    }
+    img {
+      display: block;
+      margin: 20px auto;
+      width: 50%;
+      border: 1px solid #000000;
+      border-radius: 10px;
+    }
+    tr:hover {
+      background-color: #f2f2f2;
+    }
+    .certificate-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 40px;
+    }
+    .certificate-image {
+      width: 200px;
+      height: 200px;
+      margin: 20px;
+      box-shadow: 2px 2px 5px #434343;
+    }
+    #toggle-button {
+      display: block;
+      margin: 30px auto;
+      padding: 10px;
+      font-size: 18px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
