@@ -37,5 +37,6 @@ All certificates were obtained from Sololearn except for "Complete Python Master
 ![Web Development Fundementals Certificate](WebDevelopmentFundementals.jpg)
 ![Golang Certificate](PythonForBeginners.png)
 ![Python for Beginners Certificate](Go.png)
-![Complete Python Mastery](PythonCodeWithMosh.pdf)
+![Complete Python Mastery](CompletePythonMastery.png)
 ![R Certificate](R.png)
+![Tech For Everyone](Tech.jpg)
