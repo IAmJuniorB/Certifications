@@ -4,100 +4,10 @@
     <meta charset="UTF-8">
     <title>My Certificates</title>
     </head>
-
-    <style>
-        :root {
-          --primary-color: #4CAF50;
-          --secondary-color: #dddddd;
-          --font-size-large: 36px;
-          --font-size-medium: 14px;
-        }
-        header {
-          text-align: center;
-          margin-bottom: 20px;
-        }
-        h1 {
-          font-size: var(--font-size-large);
-          margin: 0;
-        }
-        h6 {
-          font-size: var(--font-size-medium);
-          margin: 0;
-        }
-        main {
-          width: 80%;
-          margin: 0 auto;
-        }
-        table {
-          border-collapse: collapse;
-          width: 100%;
-          margin-bottom: 30px;
-        }
-        caption {
-          font-size: var(--font-size-large);
-          margin-bottom: 10px;
-        }
-        th, td {
-          border: 1px solid #000000;
-          text-align: left;
-          padding: 8px;
-          font-size: var(--font-size-medium);
-        }
-        th {
-          background-color: var(--secondary-color);
-          font-weight: bold;
-        }
-        tr:hover {
-          background-color: #f2f2f2;
-        }
-        img {
-          display: block;
-          margin: 20px auto;
-          width: 50%;
-          border: 1px solid #000000;
-          border-radius: 10px;
-        }
-        .certificate-container {
-          display: flex;
-          flex-wrap: wrap;
-          justify-content: center;
-          margin-top: 40px;
-        }
-        .certificate-image {
-          width: 200px;
-          height: 200px;
-          margin: 20px;
-          box-shadow: 2px 2px 5px #434343;
-        }
-        #toggle-button {
-          display: block;
-          margin: 30px auto;
-          padding: 10px;
-          font-size: var(--font-size-medium);
-          background-color: var(--primary-color);
-          color: white;
-          border: none;
-          border-radius: 5px;
-          cursor: pointer;
-        }
-        @media only screen and (max-width: 600px) {
-          main {
-            width: 100%;
-            padding: 0 10px;
-          }
-          img {
-            width: 100%;
-          }
-          .certificate-image {
-            width: 100%;
-            height: auto;
-          }
-        }
-      </style>
     
     <body>
         <h1>My Certificates</h1>
-        <h6>Certifications from a variety of sources, ordered by date obtained.</h6>
+        <h6>Certifications from a variety of sources. Table headers clickable to choose sorting.</h6>
         <input type="text" id="search-box" placeholder="Search...">
         <table id="certificates-table">
         <tr>
