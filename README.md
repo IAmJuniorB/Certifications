@@ -4,8 +4,9 @@ Certifications from a variety of sources, ordered by date obtained.
 
 ## Table of Contents
 
-- [Certificates](#certificates)
-- [Certificate Images](#certificate-images)
+> - [Certificates](#certificates)
+
+> - [Certificate Images](#certificate-images)
 
 ## Certificates
 
