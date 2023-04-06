@@ -29,6 +29,7 @@ Certifications from a variety of sources, ordered by date obtained.
 | [Level Up Advanced Python](LevelUpAdvancedPython.html) | LinkedIn  space with Python coding challenges to test your understanding of advanced Python concepts, following along with instructor Jonathan Fernandes, a results-driven data science consultant. | March 20, 2023 | LinkedIn Learning |
 | [Python Object-Oriented-Programming](PythonOOP.html) | LinkedIn space on learning how to apply core OOP principles like inheritance and composition along with some Python-specific features like “magic” methods and data classes to build programs that are extensible and efficient. | March 23, 2023 | LinkedIn Learning |
 | [Python Decorators](PythonDecorators.html) | In this LinkedIn space course, Jonathan Fernandes explains what decorators are and why they are used so extensively in production projects. He explains how to solve common challenges associated with decorators, such as debugging; how to chain decorators; how to use decorators with classes; and how to access the arguments passed into decorated functions. | March 23, 2023 | LinkedIn Learning |
+| [PHP](PHP.html) | In this course we learn how to create dynamic web pages, develop websites, and generate dynamic content. | April 4, 2023 | Sololearn |
 
 
 
@@ -41,4 +42,4 @@ Certifications from a variety of sources, ordered by date obtained.
 
 <img src="WebDevelopmentFundementals.jpg"  width="195" height="195"> <img src="CompletePythonMastery.png"  width="195" height="195"> <img src="R.png"  width="195" height="195"> <img src="Tech.jpg"  width="195" height="195"> <img src="SQLIntermediate.jpg"  width="195" height="195">
 
-<img src="LevelUpAdvancedPython.jpg"  width="195" height="195"> <img src="PythonOOP.png"  width="195" height="195"> <img src="PythonDecorators.png"  width="195" height="195"> 
+<img src="LevelUpAdvancedPython.jpg"  width="195" height="195"> <img src="PythonOOP.png"  width="195" height="195"> <img src="PythonDecorators.png"  width="195" height="195"> <img src="PHP.jpg"  width="195" height="195">
