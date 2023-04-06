@@ -4,6 +4,133 @@
     <meta charset="UTF-8">
     <title>My Certificates</title>
     </head>
+
+    <style>
+        body {
+          background-image: url("BG.jpg");
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-position: center;
+        }
+        :root {
+          --primary-color: #4CAF50;
+          --secondary-color: #dddddd;
+          --font-size-large: 36px;
+          --font-size-medium: 14px;
+        }
+        header {
+          text-align: center;
+          margin-bottom: 20px;
+        }
+        h1 {
+          font-size: va
+          
+        }
+        h6 {
+          font-size: var(--font-size-medium);
+          margin: 0;
+        }
+        main {
+          width: 80%;
+          margin: 0 auto;
+        }
+        table {
+          background-color: rgb(187, 191, 201);
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-position: center;
+          border-collapse: collapse;
+          width: 100%;
+          margin-bottom: 30px;
+        }
+        caption {
+          font-size: var(--font-size-large);
+          margin-bottom: 10px;
+        }
+        th, td {
+          border: 1px solid #000000;
+          text-align: left;
+          padding: 8px;
+          font-size: var(--font-size-medium);
+        }
+        th {
+          background-color: rgb(187, 191, 201);
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-position: center;
+          font-weight: bold;
+        }
+        tr:hover {
+          background-color: #f2f2f2;
+        }
+        img {
+          display: block;
+          margin: 20px auto;
+          width: 50%;
+          border: 1px solid #000000;
+          border-radius: 10px;
+        }
+        .certificate-container {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          margin-top: 40px;
+          
+        }
+        .certificate-image {
+          width: 200px;
+          height: 200px;
+          margin: 20px;
+          box-shadow: 2px 2px 5px #434343;
+        }
+        #toggle-button {
+          display: block;
+          margin: 30px auto;
+          padding: 10px;
+          font-size: var(--font-size-medium);
+          background-color: var(--primary-color);
+          color: white;
+          border: none;
+          border-radius: 5px;
+          cursor: pointer;
+          
+        }
+        #search-box {
+            text-align: center;
+            font-size: 14px;
+            font-family: Arial, sans-serif;
+            padding: 5px;
+            border: 1px solid #000000;
+            margin-bottom: 5px;
+            background-color: #d3d3d3;
+            color: #000000;
+            flex-grow: 1;
+        }
+        .search-button {
+            font-size: 14px;
+            font-family: Arial, sans-serif;
+            padding: 5px 10px;
+            margin-left: 10px;
+            background-color: #d3d3d3;
+            color: rgb(0, 0, 0);
+            border: 1px solid Black;
+            border-radius: 1px;
+            cursor: pointer;
+          }
+        @media only screen and (max-width: 600px) {
+          main {
+            width: 100%;
+            padding: 0 10px;
+          }
+          img {
+            width: 100%;
+          }
+          .certificate-image {
+            width: 100%;
+            height: auto;
+          }
+        }
+      </style>
     
     <body>
         <h1>My Certificates</h1>
