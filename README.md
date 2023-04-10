@@ -36,10 +36,10 @@ Certifications from a variety of sources, ordered by date obtained.
 
 ## Certificate Images
 
-<img src="PythonForBeginners.png"  width="195" height="195"> <img src="IntermediatePython.png"  width="195" height="195"> <img src="PythonCore.png"  width="195" height="195"> <img src="PythonDataStructure.png"  width="195" height="195"> <img src="PythonForFinance.jpg"  width="195" height="195">
+<img src="Cert_Images/PythonForBeginners.png"  width="195" height="195"> <img src="Cert_Images/IntermediatePython.png"  width="195" height="195"> <img src="Cert_Images/PythonCore.png"  width="195" height="195"> <img src="Cert_Images/PythonDataStructure.png"  width="195" height="195"> <img src="Cert_Images/PythonForFinance.jpg"  width="195" height="195">
 
-<img src="Ruby.png"  width="195" height="195"> <img src="SQL.png"  width="195" height="195"> <img src="HTML.jpg"  width="195" height="195"> <img src="Go.png"  width="195" height="195"> <img src="Go.png"  width="195" height="195">
+<img src="Cert_Images/Ruby.png"  width="195" height="195"> <img src="Cert_Images/SQL.png"  width="195" height="195"> <img src="Cert_Images/HTML.jpg"  width="195" height="195"> <img src="Cert_Images/Go.png"  width="195" height="195">
 
-<img src="WebDevelopmentFundementals.jpg"  width="195" height="195"> <img src="CompletePythonMastery.png"  width="195" height="195"> <img src="R.png"  width="195" height="195"> <img src="Tech.jpg"  width="195" height="195"> <img src="SQLIntermediate.jpg"  width="195" height="195">
+<img src="Cert_Images/WebDevelopmentFundementals.jpg"  width="195" height="195"> <img src="Cert_Images/CompletePythonMastery.png"  width="195" height="195"> <img src="Cert_Images/R.png"  width="195" height="195"> <img src="Cert_Images/Tech.jpg"  width="195" height="195"> <img src="Cert_Images/SQLIntermediate.jpg"  width="195" height="195">
 
-<img src="LevelUpAdvancedPython.jpg"  width="195" height="195"> <img src="PythonOOP.png"  width="195" height="195"> <img src="PythonDecorators.png"  width="195" height="195"> <img src="PHP.jpg"  width="195" height="195">
+<img src="Cert_Images/LevelUpAdvancedPython.jpg"  width="195" height="195"> <img src="Cert_Images/PythonOOP.png"  width="195" height="195"> <img src="Cert_Images/PythonDecorators.png"  width="195" height="195"> <img src="Cert_Images/PHP.jpg"  width="195" height="195">
