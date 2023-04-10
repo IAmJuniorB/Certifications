@@ -40,6 +40,6 @@ Certifications from a variety of sources, ordered by date obtained.
 
 <img src="Cert_Images/Ruby.png"  width="195" height="195"> <img src="Cert_Images/SQL.png"  width="195" height="195"> <img src="Cert_Images/HTML.jpg"  width="195" height="195"> <img src="Cert_Images/Go.png"  width="195" height="195">
 
-<img src="Cert_Images/WebDevelopmentFundementals.jpg"  width="195" height="195"> <img src="Cert_Images/CompletePythonMastery.png"  width="195" height="195"> <img src="Cert_Images/R.png"  width="195" height="195"> <img src="Cert_Images/Tech.jpg"  width="195" height="195"> <img src="Cert_Images/SQLIntermediate.jpg"  width="195" height="195">
+<img src="Cert_Images/WebDevelopmentFundamentals.jpg"  width="195" height="195"> <img src="Cert_Images/CompletePythonMastery.png"  width="195" height="195"> <img src="Cert_Images/R.png"  width="195" height="195"> <img src="Cert_Images/Tech.jpg"  width="195" height="195"> <img src="Cert_Images/SQLIntermediate.jpg"  width="195" height="195">
 
 <img src="Cert_Images/LevelUpAdvancedPython.jpg"  width="195" height="195"> <img src="Cert_Images/PythonOOP.png"  width="195" height="195"> <img src="Cert_Images/PythonDecorators.png"  width="195" height="195"> <img src="Cert_Images/PHP.jpg"  width="195" height="195">
