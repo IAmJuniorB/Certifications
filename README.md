@@ -36,10 +36,10 @@ Certifications from a variety of sources, ordered by date obtained.
 
 ## Certificate Images
 
-<img src="Cert_Images/PythonForBeginners.png"  width="195" height="195"> <img src="Cert_Images/IntermediatePython.png"  width="195" height="195"> <img src="Cert_Images/PythonCore.png"  width="195" height="195"> <img src="Cert_Images/PythonDataStructure.png"  width="195" height="195"> <img src="Cert_Images/PythonForFinance.jpg"  width="195" height="195">
+<img src="Cert_Images/PythonForBeginners.png"  width="20%" height="20%"> <img src="Cert_Images/IntermediatePython.png"  width="20%" height="20%"> <img src="Cert_Images/PythonCore.png"  width="20%" height="20%"> <img src="Cert_Images/PythonDataStructure.png"  width="20%" height="20%"> <img src="Cert_Images/PythonForFinance.jpg"  width="20%" height="20%">
 
-<img src="Cert_Images/Ruby.png"  width="195" height="195"> <img src="Cert_Images/SQL.png"  width="195" height="195"> <img src="Cert_Images/HTML.jpg"  width="195" height="195"> <img src="Cert_Images/Go.png"  width="195" height="195">
+<img src="Cert_Images/Ruby.png"  width="20%" height="20%"> <img src="Cert_Images/SQL.png"  width="20%" height="20%"> <img src="Cert_Images/HTML.jpg"  width="20%" height="20%"> <img src="Cert_Images/Go.png"  width="20%" height="20%"> <img src="Cert_Images/WebDevelopmentFundamentals.jpg"  width="20%" height="20%"> 
 
-<img src="Cert_Images/WebDevelopmentFundamentals.jpg"  width="195" height="195"> <img src="Cert_Images/CompletePythonMastery.png"  width="195" height="195"> <img src="Cert_Images/R.png"  width="195" height="195"> <img src="Cert_Images/Tech.jpg"  width="195" height="195"> <img src="Cert_Images/SQLIntermediate.jpg"  width="195" height="195">
+<img src="Cert_Images/CompletePythonMastery.png"  width="20%" height="20%"> <img src="Cert_Images/R.png"  width="20%" height="20%"> <img src="Cert_Images/Tech.jpg"  width="20%" height="20%"> <img src="Cert_Images/SQLIntermediate.jpg"  width="20%" height="20%"> <img src="Cert_Images/LevelUpAdvancedPython.jpg"  width="20%" height="20%">
 
-<img src="Cert_Images/LevelUpAdvancedPython.jpg"  width="195" height="195"> <img src="Cert_Images/PythonOOP.png"  width="195" height="195"> <img src="Cert_Images/PythonDecorators.png"  width="195" height="195"> <img src="Cert_Images/PHP.jpg"  width="195" height="195"> <img src="Cert_Images/ShouldKnow.png"  width="195" height="195">
+<img src="Cert_Images/PythonOOP.png"  width="20%" height="20%"> <img src="Cert_Images/PythonDecorators.png"  width="20%" height="20%"> <img src="Cert_Images/PHP.jpg"  width="20%" height="20%"> <img src="Cert_Images/ShouldKnow.png"  width="20%" height="20%">
