@@ -1,6 +1,6 @@
 # My Certificates
 
-Certifications from a variety of sources, ordered by date obtained.
+Certifications I have earned from a variety of sources.
 
 ## Table of Contents
 
