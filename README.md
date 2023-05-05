@@ -31,6 +31,7 @@ Certifications I have earned from a variety of sources.
 | [Python Decorators](Pages/PythonDecorators.html) | In this LinkedIn space course, Jonathan Fernandes explains what decorators are and why they are used so extensively in production projects. He explains how to solve common challenges associated with decorators, such as debugging; how to chain decorators; how to use decorators with classes; and how to access the arguments passed into decorated functions. | March 23, 2023 | LinkedIn Learning |
 | [PHP](Pages/PHP.html) | In this course we learn how to create dynamic web pages, develop websites, and generate dynamic content. | April 4, 2023 | Sololearn |
 | [Should Know](Pages/ShouldKnow.html) | This course helps you on the journey to writing intermediate-level Python code. Instructor Jonathan Fernandes presents eight things that you should know how to do in Python. Topics include the Python any() and all() methods, using enumerate() and zip() methods, min() and max(), and more. For each topic, Jonathan provides a hands-on approach and then gives you a challenge (with solutions) to practice. | April 12, 2023 | LinkedIn Learning |
+| [Python Intermediate](Pages/PythonIntermediate.html) | In this course you learn about Python collection types, lambda functions, generators, decorators, object-oriented programming, and much more. | May 5, 2023 | SoloLearn |
 
 
 
@@ -42,4 +43,4 @@ Certifications I have earned from a variety of sources.
 
 <img src="Cert_Images/CompletePythonMastery.png"  width="20%" height="20%"> <img src="Cert_Images/R.png"  width="20%" height="20%"> <img src="Cert_Images/Tech.jpg"  width="20%" height="20%"> <img src="Cert_Images/SQLIntermediate.jpg"  width="20%" height="20%"> <img src="Cert_Images/LevelUpAdvancedPython.jpg"  width="20%" height="20%">
 
-<img src="Cert_Images/PythonOOP.png"  width="20%" height="20%"> <img src="Cert_Images/PythonDecorators.png"  width="20%" height="20%"> <img src="Cert_Images/PHP.jpg"  width="20%" height="20%"> <img src="Cert_Images/ShouldKnow.png"  width="20%" height="20%">
+<img src="Cert_Images/PythonOOP.png"  width="20%" height="20%"> <img src="Cert_Images/PythonDecorators.png"  width="20%" height="20%"> <img src="Cert_Images/PHP.jpg"  width="20%" height="20%"> <img src="Cert_Images/ShouldKnow.png"  width="20%" height="20%"> <img src="Cert_Images/PythonIntermediate.jpg"  width="20%" height="20%">
